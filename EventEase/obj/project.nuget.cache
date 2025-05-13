@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T15QcKHy71s=",
+  "dgSpecHash": "N2G7ZeUXYpQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\lab_services_student\\Documents\\GitHub\\part-1-poe-Njikho-Omega\\EventEase\\EventEase.csproj",
+  "projectFilePath": "C:\\Users\\lab_services_student\\Documents\\GitHub\\CLDV_Part2_St10446907\\EventEase\\EventEase.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lab_services_student\\.nuget\\packages\\azure.core\\1.44.1\\azure.core.1.44.1.nupkg.sha512",
     "C:\\Users\\lab_services_student\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
